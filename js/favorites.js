@@ -135,7 +135,7 @@ export class VisualizarFavoritos extends Favoritos {
                 <div class="no-favorite">
                   <img
                     class="star-no-favorites"
-                    src="/assets/images/no-favorite-star.svg"
+                    src="assets/images/no-favorite-star.svg"
                     alt="Uma estrela com um rosto"
                   />
                   <p class="text-no-favorites">Nenhum favorito ainda</p>
